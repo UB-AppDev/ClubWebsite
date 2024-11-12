@@ -1,0 +1,47 @@
+$font-family: 'Roboto, sans-serif';
+$heading-font-weight: 700;
+$body-font-weight: 400;
+$font-color: #333333;
+$background-color: #ffffff;
+
+$primary-color: (
+        'base': #6200ea,
+        'light': #9a7dff,
+        'dark': #0a00b6,
+);
+
+$secondary-color: (
+        'base': #03dac6,
+        'light': #66fff9,
+        'dark': #00a896,
+);
+
+$accent-color: (
+        'base': #ff4081,
+        'light': #ff79b0,
+        'dark': #c60055,
+);
+
+$error-color: (
+        'base': #f44336,
+        'light': #e57373,
+        'dark': #d32f2f,
+);
+
+$info-color: (
+        'base': #2196f3,
+        'light': #64b5f6,
+        'dark': #1976d2,
+);
+
+$success-color: (
+        'base': #4caf50,
+        'light': #81c784,
+        'dark': #388e3c,
+);
+
+$warning-color: (
+        'base': #ff9800,
+        'light': #ffb74d,
+        'dark': #f57c00,
+);
